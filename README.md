@@ -1,5 +1,5 @@
 # nuxt-bio
-
+-
 > Small bio-esque site for presenting links built with Nuxt.js
 
 ## PWA settings
