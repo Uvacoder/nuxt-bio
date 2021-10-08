@@ -1,4 +1,4 @@
-# nuxt-bio
+# [nuxt-bio](https://bio.moso.io)
 -
 > Small bio-esque site for presenting links built with Nuxt.js
 
